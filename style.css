@@ -83,7 +83,7 @@ body {
     }
 
     100% {
-        transform: translateX(100% + 20px);
+        transform: translateX(calc(100% + 20px));
     }
 }
 
@@ -172,7 +172,7 @@ body {
 
 @media screen and (max-width:530px) {
     .notifications {
-        width: 90%;
+        width: 95%;
     }
 
     .notifications .toast {
