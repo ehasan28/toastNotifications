@@ -172,7 +172,7 @@ body {
 
 @media screen and (max-width:530px) {
     .notifications {
-        width: 85%;
+        width: 90%;
     }
 
     .notifications .toast {
