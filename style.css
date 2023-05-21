@@ -124,7 +124,7 @@ body {
 }
 
 .toast .coulmn i {
-    font-size: 30px !important;
+    font-size: 27px !important;
 }
 
 .toast.success .coulmn i {
@@ -170,7 +170,7 @@ body {
 
 @media screen and (max-width:530px) {
     .notifications {
-        width: 95%;
+        width: 85%;
     }
 
     .notifications .toast {
